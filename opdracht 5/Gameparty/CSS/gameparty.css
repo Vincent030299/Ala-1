@@ -1,0 +1,201 @@
+html{height: 98%;}
+body{height: 98%;
+    background-image: url(http://marshall.org/wp-content/themes/marshall/img/featured-space-policy.jpg);
+    background-size: 100%;
+    background-position: left;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+#content{
+    width:50%;
+    height:103%;
+    margin:-15px auto;
+    padding-top:0px;
+    background-color:rgba(179,212,252,0.5);
+    border-radius:25px;
+    background-image: url(../IMGS/Mario.png);
+    background-repeat:no-repeat;
+    background-position: bottom;
+}
+#hard-software {
+    width:50%;
+    height:103%;
+    margin:-15px auto;
+    padding-top:0px;
+    background-color:rgba(179,212,252,0.5);
+    border-radius:25px;
+}
+#Flyer {
+    width: 50%;
+    height: 103%;
+    margin: -15px auto;
+    padding-top:0px;
+    background-color: rgba(179, 212, 252, 0.5);
+    border-radius: 25px;
+    background-image: url(../IMGS/flyer4.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 600px;
+}
+#profiel {
+    width:50%;
+    height:103%;
+    margin:-15px auto;
+    padding-top:0px;
+    background-color:rgba(179,212,252,0.5);
+    border-radius:25px;
+    background-image: url(../IMGS/profiel.png);
+    background-repeat:no-repeat;
+    background-position: bottom;
+}
+section{
+    width:50%;
+    height:103%;
+    margin:-15px auto;
+    padding-top:0px;
+    background-color:rgba(179,212,252,0.5);
+    border-radius:25px;
+    background-repeat:no-repeat;
+    background-position: bottom;
+}
+header{
+ text-align:center;
+    background-color: #000897;
+    border-top-left-radius:25px;
+    border-top-right-radius:25px;
+}
+h1{
+    color: #b3d4fc;
+    font-family:serif;
+    font-size:44px;
+    font-weight:bold;
+    text-align:center;
+    margin-bottom: 12px;
+    padding-top: 15px;
+}
+nav ul {
+    border-top: double 3px #8e8e8e;
+    text-align: center;
+}
+
+nav ul li {
+    float:left;
+    padding: 0px 60px;
+    list-style-type: none;
+    border-bottom: solid 1px #8e8e8e;
+}
+nav ul li a{
+    font-size:20pt;
+    font-weight:bold;
+    color:rgb(86,122, 199);
+    text-decoration:none;
+    text-shadow: 0 1px 1px rgba(0,0,0,0.70);
+    -webkit-border-radius:6px;
+    -moz-border-radius:6px;
+    border-radius:6px;
+    -webkit-transition:all 1.0s ease-in-out;
+    -moz-transition:all 1.0s ease-in-out;
+    transition:all 1.0s ease-in-out
+}
+nav ul li a:hover,
+nav ul li a:focus
+{
+    color:#fff;
+    background: rgb(86,122,199);
+}
+table {
+    margin-top: 60px;
+    margin-left: 20px;
+}
+td{
+    font-family:invasion2000 ;
+    font-size: 20px;
+    padding-left: 20px;
+    padding-top: 5px;
+    color: #090f83;
+}
+#title {
+    font-size: 30px;
+    font-weight: bold;
+}
+#homepage {
+    padding-top: 50px;
+    font-size:30px;
+    font-weight:bold;
+}
+#title1{
+    font-size: 30px;
+    font-weight:bold;
+}
+#title2 {
+    font-size: 30px;
+    font-weight:bold;
+    padding-left:175px;
+}
+#title3 {
+    font-size: 30px;
+    font-weight:bold;
+    padding-left: 175px;
+}
+.pers {
+    padding-top:20px;
+}
+.pers1{
+    padding-top: 20px;
+}
+#LOL{
+    padding-top: 20px;
+}
+#klik{
+    text-align: center;
+}
+footer{
+    font-family:invasion2000 ;
+    color: #090f83;
+    font-size: 20px;
+    padding-top:390px;
+    padding-left: 25px;
+}
+#profielfooter{
+    font-family:invasion2000 ;
+    color: #090f83;
+    font-size: 20px;
+    padding-top:250px;
+}
+#hard{
+    font-family:invasion2000 ;
+    color: #090f83;
+    font-size: 20px;
+    padding-top:160px;
+}
+#flyer1{
+    font-family:invasion2000 ;
+    color: #090f83;
+    font-size: 20px;
+    padding-top:830px;
+}
+#league1{
+    font-family:invasion2000 ;
+    color: #090f83;
+    font-size: 20px;
+    padding-top:160px;
+}
+#TF25{
+    font-family:invasion2000 ;
+    color: #090f83;
+    font-size: 20px;
+    padding-top:160px;
+}
+#school{
+    font-family:invasion2000 ;
+    color: #090f83;
+    font-size: 20px;
+    padding-top:160px;
+}
+thead tr th{
+    font-family: invasion2000;
+    font-size: 25px;
+    font-weight:bold;
+    color: #090f83;
+    padding-left:18px;
+}

@@ -1,0 +1,21 @@
+
+.container {
+    width: 740px;
+    margin: auto;
+}
+
+.main-header {
+    height: 110px;
+    color:white;
+    background: royalblue;
+}
+
+.main-content {
+    padding: 20px;
+    background: lightgray;
+}
+
+.main-footer {
+    height: 100px;
+    color:white;
+    background:#222;}
